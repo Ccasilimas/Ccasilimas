@@ -15,7 +15,7 @@ Kcasilimas@gmail.com
 
 ## 🚀 Professional Overview
 
-Web Developer | Data Science Enthusiast dedicated to delivering high-performance digital solutions.
+Web Developer | Data Science  dedicated to delivering high-performance digital solutions.
 
 My work bridges technical skill with strategic vision, transforming complex data into meaningful insights.
 
