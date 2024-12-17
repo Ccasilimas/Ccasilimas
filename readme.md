@@ -1,12 +1,6 @@
 # Camilo Casilimas
 
 <div align="center">
-  <a href="https://casilimas.com" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Website-FFFFFF?style=for-the-badge&logo=website&logoColor=black" 
-      alt="Website" 
-    />
-  </a>
   <a href="https://www.linkedin.com/in/camilo-casilimas/" target="_blank">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
