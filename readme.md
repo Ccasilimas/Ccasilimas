@@ -1,5 +1,4 @@
 # Camilo Casilimas
-
 <div align="center">
   <a href="https://www.linkedin.com/in/camilo-casilimas/" target="_blank">
     <img 
@@ -13,22 +12,33 @@
       alt="Email" 
     />
   </a>
+  <a href="https://casilimas.com" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" 
+      alt="Website" 
+    />
+  </a>
 </div>
 
 ## Contact 
 
-- inclickpro@gmail.com
 - camilo@inclick.pro
 
 ## 🚀 Professional Overview
-
 **Full Stack Developer | Data Science Professional** dedicated to delivering high-performance digital solutions with expertise in modern web technologies and data analytics.
 
 ---
 
 ## 🛒 Sistema de Punto de Venta - React & Firebase
 
-[[Point of Sale System](https://pos.inclick.pro)]
+<div align="center">
+  <a href="https://pos.inclick.pro" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=react&logoColor=white" 
+      alt="Live Demo" 
+    />
+  </a>
+</div>
 
 A complete **React 18 + Firebase** point-of-sale system for small and medium businesses:
 
@@ -47,16 +57,12 @@ A complete **React 18 + Firebase** point-of-sale system for small and medium bus
 - ✅ **Multi-tenant System** supporting multiple business operations
 - ✅ **Performance Optimized** for mobile and desktop environments
 
-**🔗 Live Demo:** [pos.inclick.pro](https://pos.inclick.pro)
-
 ---
 
 ## 📈 Data Science Project: Taxi Fleet Analysis
-
 ![Taxi Fleet Analysis](img/taxis2.jpeg)
 
 An innovative project optimizing New York City's taxi fleet operations:
-
 - 🔍 Identify high-demand taxi zones
 - ⛽ Optimize fuel usage strategies
 - 📍 Improve operational efficiency
@@ -94,9 +100,7 @@ An innovative project optimizing New York City's taxi fleet operations:
 ---
 
 ## 🎯 Professional Focus
-
 Specialized in creating **scalable web applications** that solve real business problems, with particular expertise in:
-
 - **E-commerce & POS Systems**: Complete sales management solutions
 - **Offline-First Applications**: Robust systems that work without internet
 - **Data-Driven Dashboards**: Analytics and reporting interfaces
@@ -104,4 +108,4 @@ Specialized in creating **scalable web applications** that solve real business p
 
 ---
 
-*Passionate about building technology solutions that make a real impact on business operations and user experience.* 
+*Passionate about building technology solutions that make a real impact on business operations and user experience.*
