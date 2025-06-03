@@ -32,12 +32,12 @@
 
 A complete **React 18 + Firebase** point-of-sale system for small and medium businesses:
 
-- 🌐 **Offline-First Architecture**: Full functionality with IndexedDB synchronization
-- 🛒 **Multi-Cart Management**: Simultaneous handling of up to 3 shopping carts
-- 🔍 **Smart Search**: EAN code and product description unified search
-- 📊 **Real-time Analytics**: Sales reports and inventory dashboards
-- 🖨️ **Automated Receipts**: Instant ticket generation and printing
-- 🔐 **Enterprise Security**: Firebase Auth with Firestore security rules
+-  **Offline-First Architecture**: Full functionality with IndexedDB synchronization
+-  **Multi-Cart Management**: Simultaneous handling of up to 3 shopping carts
+-  **Smart Search**: EAN code and product description unified search
+-  **Real-time Analytics**: Sales reports and inventory dashboards
+-  **Automated Receipts**: Instant ticket generation and printing
+-  **Enterprise Security**: Firebase Auth with Firestore security rules
 
 **Tech Stack:** React 18 · Firebase · IndexedDB · Chart.js · PWA
 
